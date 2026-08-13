@@ -1,0 +1,21 @@
+id,title,author,genre,year_published,rating
+1,The Hobbit,J.R.R. Tolkien,Fantasy,1937,8.9
+2,Dune,Frank Herbert,Science Fiction,1965,8.8
+3,1984,George Orwell,Dystopian,1949,9.1
+4,To Kill a Mockingbird,Harper Lee,Classic,1960,8.9
+5,Brave New World,Aldous Huxley,Dystopian,1932,8.7
+6,The Great Gatsby,F. Scott Fitzgerald,Classic,1925,8.5
+7,Fahrenheit 451,Ray Bradbury,Dystopian,1953,8.4
+8,Pride and Prejudice,Jane Austen,Romance,1813,8.6
+9,The Catcher in the Rye,J.D. Salinger,Classic,1951,8.0
+10,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,9.3
+11,Animal Farm,George Orwell,Satire,1945,8.7
+12,Slaughterhouse-Five,Kurt Vonnegut,Satire,1969,8.3
+13,The Alchemist,Paulo Coelho,Adventure,1988,8.2
+14,Moby Dick,Herman Melville,Adventure,1851,7.9
+15,War and Peace,Leo Tolstoy,Historical Fiction,1869,8.8
+16,Crime and Punishment,Fyodor Dostoevsky,Philosophical Fiction,1866,8.9
+17,The Odyssey,Homer,Epic Poetry,-800,8.5
+18,Frankenstein,Mary Shelley,Horror,1818,8.1
+19,Dracula,Bram Stoker,Horror,1897,8.0
+20,The Picture of Dorian Gray,Oscar Wilde,Gothic Fiction,1890,8.4
