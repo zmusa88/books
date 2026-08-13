@@ -22,5 +22,6 @@
 3. /books/title will should you all the titles of the books on record
 4. to navigate to a specific book, either use /books/<int:book_id> or /books/title/<string:title> 
 
-what you should see:
+example of the application working:
+
 <img width="617" height="269" alt="image" src="https://github.com/user-attachments/assets/f62e70b3-277a-48c4-931f-67f13c174b3b" />
