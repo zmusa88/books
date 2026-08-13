@@ -6,7 +6,7 @@
 3. use sudo apt update and sudo apt upgrade -y to have it ready to use
 4. clone the git repo using: git clone git@github.com:zmusa88/books.git
 5. use the cd command to move into the books folder
-6. use sudo apt sudo apt install python3-venv -y then python3 -m venv .venv and source .venv/bin/activate to set you a python virtual environment
+6. use sudo apt sudo apt install python3-venv -y then python3 -m venv .venv and source .venv/bin/activate to set up your python virtual environment
 7. use pip to install Flask
 8. go to your instance details and select your security group
 9. add a new rule to your inbound rules:
