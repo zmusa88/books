@@ -14,10 +14,10 @@
                  - port range: 5000
                  - source: anywhere
 10. go back to git bash and run python -m book_app
-11. the application should be running on 52.59.158.179:5000
+11. the application should be running on [your instance's Public IPv4 addres]:5000
 
 ## Using
-1. to use the application just change what comes after 52.59.158.179:5000 in the search bar of your browser. 
+1. to use the application just change what comes after [your instance's Public IPv4 addres]:5000 in the search bar of your browser. 
 2. home (/) or /books will show you all the books on record
 3. /books/title will should you all the titles of the books on record
 4. to navigate to a specific book, either use /books/<int:book_id> or /books/title/<string:title> 
