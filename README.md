@@ -3,7 +3,7 @@
 ## Deploying
 1. launch an EC2 instance
 2. connect to it via git bash
-3. use sudo apt update and sudo apt upgrade -y to have it ready to you
+3. use sudo apt update and sudo apt upgrade -y to have it ready to use
 4. clone the git repo using: git clone git@github.com:zmusa88/books.git
 5. use the cd command to move into the books folder
 6. use sudo apt sudo apt install python3-venv -y then python3 -m venv .venv and source .venv/bin/activate to set you a python virtual environment
