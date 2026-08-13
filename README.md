@@ -1,4 +1,4 @@
-# Step by Step Guide to Deploying and Using this application on the Web
+# Step by Step Guide to Deploying and Using this application
 
 ## Deploying
 1. launch an EC2 instance
