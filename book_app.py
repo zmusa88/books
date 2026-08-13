@@ -49,4 +49,4 @@ def get_book_by_title(title):
     return jsonify(book)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host = '0.0.0.0', debug=True)
